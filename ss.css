@@ -1,0 +1,99 @@
+.ss{
+    height: 5px;
+}
+.nav-mar{
+    margin: 0 0 0 50px;
+}
+.container-fluid{
+    padding: 15px 15px;
+}
+/* .sign_up{
+    padding: 0 20px;
+} */
+/* .w-100 {
+    width: 80% !important;
+    height: 300px;
+  } */
+/* .w-90{
+    width:90%;
+}
+.center2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.carousel-inner2 {
+    position: relative;
+    width: 90%;
+    overflow: hidden;
+    display: flex;
+    justify-content: start;
+    align-content: center;
+    margin: 15px auto;
+  }
+
+.container1{
+    margin: 5vh 5vw;
+    overflow-x: hidden;
+    /* background-color: blue; */
+}
+.container2{
+    margin: 5vh 5vw;
+    /* background-color: blue; */
+}
+.shoes{
+    margin: 3vh 0 2vh;
+}
+
+.cards{
+    display: flex;
+    justify-content: flex-start;
+    /* margin: 10px 100px; */
+    overflow: scroll;
+    
+}
+.container{
+    max-width: 100%;
+}
+
+.card2{
+    margin: 0 10px;
+    width: 300px;
+}
+.card-title {
+    height: 8vh;
+}
+.container1 .card{
+    min-width: 150px;
+    max-height: 550px;
+}
+.container2 .card{
+    min-width: 150px;
+    max-height: 550px;
+}
+.img-title{
+    min-height: 300px;
+    /* min-width: 250px; */
+    overflow: scroll;
+}
+/* .modal5{ */
+    /* display: flex; */
+    /* padding: 155px; */
+    /* overflow: scroll; */
+/* }  */
+.modal-body .card{
+    margin: 15px;
+    min-width: 150px;
+    /* max-width: 150px; */
+    max-height: 600px;
+}
+.modal16{
+    background-color: black;
+    color: white;
+}
+footer .container{
+    max-height: 1vh;
+}
+#staticBackdrop1 .modal-body{
+    position: relative;
+}
